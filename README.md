@@ -1,6 +1,6 @@
 This algorithm has been implemented in order to solve the vehicle routing problem :
 
-"From a depotm goods must be delivered in given quantities to given customers.
+"From a depot, goods must be delivered in given quantities to given customers.
 A number of vehicles are available, each with a certain capacity with regard to the quantities. 
 Every vehicle that is applied in the solution must cover a route, starting and ending at the 
 depot, on which goods are delivered to one or more customers.
